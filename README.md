@@ -134,12 +134,4 @@ Developed **GEET**, an AI-powered smart museum ecosystem.
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Youssif71&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssif71&layout=compact)
-
----
-
 *"Building AI systems from research ideas to production-ready applications."*
