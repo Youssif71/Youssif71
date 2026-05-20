@@ -3,8 +3,6 @@
 **Data Science & Artificial Intelligence Student · Zewail City of Science & Technology**
 
 📧 youssifmagdy101@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/youssif-magdi-1o1)  
-💻 [GitHub](https://github.com/Youssif71)
 
 ---
 
