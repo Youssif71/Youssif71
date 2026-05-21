@@ -2,8 +2,8 @@
 
 **Data Science & Artificial Intelligence Student @ Zewail City of Science & Technology**
 
-🔗 LinkedIn: https://www.linkedin.com/in/youssif-magdi-1o1    
-📧 Email: youssifmagdy101@gmail.com  
+[bio.site/youssif_magdi](https://bio.site/youssif_magdi)
+
 
 ---
 
