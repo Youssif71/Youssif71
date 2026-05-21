@@ -1,137 +1,155 @@
 # Youssif Magdi
 
-**Data Science & Artificial Intelligence Student · Zewail City of Science & Technology**
+**Data Science & Artificial Intelligence Student @ Zewail City of Science & Technology**
 
-📧 youssifmagdy101@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/youssif-magdi-1o1    
+📧 Email: youssifmagdy101@gmail.com  
 
 ---
 
-I build AI systems that bridge research and deployment — focusing on machine learning, NLP, computer vision, and scalable AI applications.
+I build AI systems that bridge research and deployment — transforming machine learning ideas into production-oriented applications.
 
-My interests span information retrieval, explainable AI, computer vision, and intelligent automation systems. I enjoy building practical AI solutions with strong engineering foundations.
+My work spans **information retrieval, NLP, computer vision, explainable AI, and scalable ML systems**, with emphasis on building practical solutions grounded in solid engineering principles.
 
 ---
 
 ## Research & Technical Interests
 
 ### Information Retrieval & NLP
-- Semantic Search
-- BERT / RoBERTa
+- Semantic Search Systems
+- BERT / RoBERTa Models
+- Retrieval-Augmented Pipelines
 - Resume Intelligence Systems
-- Retrieval Pipelines
-- Search Ranking Systems
+- Search Ranking & Recommendation
 
 ### Computer Vision
 - Object Detection
 - Multi-Object Tracking
-- Explainable Vision Models
+- Explainable Vision Systems
 - Medical Imaging AI
-- YOLO-based Systems
+- YOLO-based Applications
 
-### Explainable AI
+### Explainable AI (XAI)
 - SHAP
 - LIME
 - Grad-CAM
-- Bias & Interpretability
+- Model Interpretability
+- Bias Analysis
 
 ### AI Systems Engineering
 - REST APIs
 - Backend Development
-- Scalable ML Systems
 - Docker Deployment
-- AI Automation
+- ML Pipelines
+- Intelligent Automation Systems
 
 ---
 
-## Selected Projects
+# Featured Projects
 
-### Bowling Score Detection System
+## Bowling Pin Detection & Score Tracking System
 **Python · YOLOv8 · ByteTrack · OpenCV**
 
-End-to-end computer vision pipeline for automatic bowling pin detection and score tracking from video streams.
+Computer vision pipeline for automatic bowling pin detection and score tracking from video streams.
 
-Features:
-- Fine-tuned YOLOv8s
-- Multi-object tracking with ByteTrack
-- Fall detection heuristics
+Highlights:
+
+- Fine-tuned YOLOv8s detector
+- Multi-object tracking using ByteTrack
+- Pin-fall detection heuristics
 - Real-time annotated outputs
+- Video analytics pipeline
+
+Repository: [Bowling-Pin-Detection-Fall-Tracking](https://github.com/Youssif71/Bowling-Pin-Detection-Fall-Tracking)
 
 ---
 
-### Resume Classification & Candidate Ranking System
+## Resume Classification & Candidate Ranking System
 **RoBERTa · NLP · Streamlit**
 
-AI-powered recruitment pipeline:
+AI recruitment pipeline featuring:
 
 - Resume classification (>80% accuracy)
-- TF-IDF ranking
-- Cosine similarity matching
+- TF-IDF retrieval
+- Cosine similarity ranking
 - Interactive evaluation dashboard
 
 ---
 
-### Explainable AI for Chest X-Ray Classification
+## Explainable AI for Chest X-Ray Classification
 **PyTorch · TensorFlow · XAI**
 
-Multi-label disease classification using ChestXray14:
+Multi-label disease classification using ChestXray14.
+
+Methods:
 
 - DenseNet / ResNet
 - Grad-CAM
 - SHAP
 - LIME
 
-Achieved **ROC-AUC = 0.806**
+Performance:
+
+**ROC-AUC: 0.806**
+
+Repository: [XAI-Chest-Xray](https://github.com/Youssif71/XAI-Chest-Xray)
+
 
 ---
 
-### Scalable Price Comparison Platform
+## Scalable Price Comparison Platform
 **Flask · PostgreSQL · Elasticsearch · Docker**
 
-Backend system featuring:
+Backend architecture featuring:
 
-- Clean Architecture
 - REST APIs
+- Clean Architecture
 - Search infrastructure
-- Testing pipelines
+- Automated testing
 - Containerized deployment
 
 ---
 
-## Experience
+# Experience
 
-### AI Specialist & Marketing Automation Assistant
+## AI Specialist & Marketing Automation Assistant
 **Midrar Marketing Agency**
 
+Responsibilities:
+
 - AI chatbot optimization
-- Workflow automation using Make & Zapier
-- Reporting pipelines
-- AI-assisted business systems
+- Business workflow automation
+- Make & Zapier integrations
+- AI-powered reporting pipelines
+- Marketing process automation
 
 ---
 
-## Technical Stack
+# Technical Stack
 
-**Languages**  
+### Languages
 Python · SQL · C++
 
-**ML / AI**  
+### Machine Learning
 PyTorch · TensorFlow · Scikit-learn · OpenCV
 
-**Backend**  
-Flask · REST APIs · PostgreSQL
+### Backend & Databases
+Flask · REST APIs · PostgreSQL · Elasticsearch
 
-**Tools**  
-Docker · Git · Elasticsearch · Jupyter
-
----
-
-## Achievements
-
-🏆 2nd Place — University Hackathon  
-
-🏛️ Top 23 / 100+ Teams — GEM Hackathon  
-Developed **GEET**, an AI-powered smart museum ecosystem.
+### Tools
+Docker · Git · Jupyter · Linux
 
 ---
 
-*"Building AI systems from research ideas to production-ready applications."*
+# Achievements
+
+🏆 2nd Place — University Hackathon
+
+🏛️ Top 23 / 100+ Teams — GEM Hackathon
+
+Project:
+**GEET — AI-Powered Smart Museum Ecosystem**
+
+---
+
+> Building AI systems from research ideas to production-ready applications.
